@@ -1,0 +1,6 @@
+{
+  "name": "Zombi Qamali — 4 O'yinchi",
+  "description": "Bitta ekranda 4 kishi birgalikda o'ynaydigan top-down zombi otish o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
